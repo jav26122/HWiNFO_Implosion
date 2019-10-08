@@ -1,0 +1,2 @@
+For this skin to function properly you will need HWiNFO installed and the sensors window needs to be running. The "Shared Memory Support" setting needs to be enabled. HWiNFO can be downloaded at http://www.hwinfo.com/download.php
+The SensorIDs will probably need to be changed. These can be changed in the SensorIDs.inc file. If you do not know how to configure the Sensor IDs you can refer to the HELP.png included in the skin folder.
